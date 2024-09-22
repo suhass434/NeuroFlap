@@ -53,7 +53,7 @@ In the game, multiple birds are initialized, each controlled by its own neural n
 
 #   Screenshots
 
-![Gameplay Screenshot](screenshots/screenshot1.png)
+![Gameplay Screenshot](screenshots/neuroflap.png)
 
 ## Future Enhancements
 - Implementing real-time performance graphs for neural network evolution.
