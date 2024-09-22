@@ -55,10 +55,5 @@ In the game, multiple birds are initialized, each controlled by its own neural n
 
 ![Gameplay Screenshot](screenshots/neuroflap.png)
 
-## Future Enhancements
-- Implementing real-time performance graphs for neural network evolution.
-- Adding advanced visualizations of the neural network’s decision-making process.
-- Introducing new obstacles or challenges for more complex gameplay.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
